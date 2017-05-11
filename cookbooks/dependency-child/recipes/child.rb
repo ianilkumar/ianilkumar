@@ -1,0 +1,1 @@
+Chef::Log.info(" This is child cookbook")
